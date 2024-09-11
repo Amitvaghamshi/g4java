@@ -1,0 +1,17 @@
+package g4class;
+
+import java.util.LinkedHashSet;
+
+public class SetDemo {
+
+	public static void main(String[] args) {
+		LinkedHashSet<Integer> set=new LinkedHashSet<>();
+		set.add(123);
+		set.add(1);
+		set.add(6543);
+		set.add(674);
+		set.add(674);
+		set.add(674);
+		System.out.println(set);
+	}
+}

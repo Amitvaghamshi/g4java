@@ -1,0 +1,10 @@
+package g4class;
+
+public class Student {
+
+	int roll;
+	String name;
+	String addr;
+	
+	
+}

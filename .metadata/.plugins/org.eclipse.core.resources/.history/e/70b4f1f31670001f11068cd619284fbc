@@ -1,0 +1,12 @@
+package g4class;
+
+import java.util.*;
+public class StudentDemo {
+
+	   ArrayList<Student> students;
+	   
+	   StudentDemo(){
+		   students=new ArrayList<>();
+	   }
+	   
+}
