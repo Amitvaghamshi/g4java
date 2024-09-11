@@ -1,0 +1,15 @@
+package g4class;
+
+import packagedemo.Student;
+
+public class Demo extends Student{
+
+	public static void main(String[] args) {
+		
+//		int[] arr= {1,2,3,4};
+//		System.out.println(Arrays.toString(arr));
+		
+	     Demo d=new Demo();
+	     System.out.println(d.name);
+	}
+}

@@ -1,0 +1,30 @@
+package g4class;
+
+public interface Intr {
+
+	void hello();
+}
+
+class IntrDemo implements Intr{
+	
+	@Override
+    void hello() {
+		
+	}
+}
+
+
+class C1 {
+	void sayhii() {
+		System.out.println("hii");
+	}
+}
+
+class c2 extends c1{
+	
+	void sayhii() {
+		
+	}
+}
+
+

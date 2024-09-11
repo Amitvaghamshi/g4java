@@ -1,0 +1,20 @@
+package g4class;
+import java.util.ArrayList;
+import java.util.List;
+public class CollectionDemo {
+
+	public static void main(String[] args) {
+		
+		 ArrayList<Integer> list=new ArrayList<>();
+		 // ADD
+		 list.add(123);
+		 list.add(2345);
+		 list.add(234);
+		
+		 
+		 //GETTING ELEMENT
+		 System.out.println(list.get(2));
+		 list.add(null);
+		 System.out.println(list);
+	}
+}

@@ -1,0 +1,7 @@
+package packagedemo;
+
+public class Student {
+	
+	 String name="Albert";
+
+}
