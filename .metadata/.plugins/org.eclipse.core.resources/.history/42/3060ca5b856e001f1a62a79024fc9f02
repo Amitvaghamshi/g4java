@@ -1,7 +1,0 @@
-package packagedemo;
-
-public class Student {
-	
-	protected String name="Albert";
-
-}
